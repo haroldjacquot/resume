@@ -1,11 +1,12 @@
 import React from "react";
 import { FaLinkedin, FaEnvelope } from "react-icons/fa";
+import haroldPhoto from "../assets/harold_jacquot_square3.jpg"
 
 export default function Header() {
   return (
     <header className="flex flex-col items-center text-center py-8">
       <img
-        src="/harold_jacquot_square3.jpg"
+        src={haroldPhoto}
         alt="Harold Jacquot"
         className="rounded-full w-32 h-32 border-4 border-blue-500 shadow-lg"
       />
