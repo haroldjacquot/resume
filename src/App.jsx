@@ -9,6 +9,7 @@ import Skills from "./components/Skills";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
 import Certifications from "./components/Certifications";
+import ProfessionalTraining from './components/ProfessionalTraining';
 import Contact from "./components/Contact";
 import DarkModeToggle from "./components/DarkModeToggle";
 
@@ -39,10 +40,11 @@ export default function App() {
         {/* Contenu */}
         <Header />
         <Summary />
+        <Certifications />
         <Skills />
         <Experience />
         <Education />
-        <Certifications />
+        <ProfessionalTraining />
         <Contact />
       </div>
     </LanguageProvider>
