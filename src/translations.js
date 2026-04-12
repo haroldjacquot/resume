@@ -160,6 +160,12 @@ export const translations = {
           logo: "favicons/favicon_DevOpsInstitute_big.png"
         },
         {
+          year: "2018",
+          title: "PRINCE2 Foundation",
+          issuer: "AXELOS Global Best Practice",
+          logo: "favicons/favicon_Axelos_big.png"
+        },
+        {
           year: "2015",
           title: "ITIL Foundation 2011",
           issuer: "APMG International",
@@ -170,6 +176,20 @@ export const translations = {
     professionalTraining: {
       title: "Professional Training",
       items: [
+        {
+          year: "2025",
+          title: "React de A à Z (Hooks, Redux, Contexte inclus)",
+          issuer: "Udemy",
+          logo: "favicons/favicon_udemy.png",
+          link: "https://www.udemy.com/share/101uju3@3IrWVl0wAJ9ag8DHiTrvoF7o5DJ4iE0rTr-zJx_en8qruQ0eAZT-Mi13kVYm5pEhjg==/"
+        },
+        {
+          year: "2023",
+          title: "Leader at RUBIX",
+          issuer: "RUBIX",
+          logo: "favicons/favicon_Rubix.png",
+          link: ""
+        },
         {
           year: "2022",
           title: "DevOps Foundation",
@@ -185,18 +205,17 @@ export const translations = {
           link: "https://secnumacademie.gouv.fr"
         },
         {
-          year: "2018",
-          title: "PRINCE2 Foundation",
-          issuer: "Cegos",
+          year: "2021",
+          title: "S'affirmer et sortir des conflits au quotidien - Assertivité niveau 2",
+          issuer: "CEGOS",
           logo: "favicons/favicon_Cegos_big.png",
-          link: "professionalTraining/Cegos_PRINCE2.pdf"
         },
         {
-          year: "2015",
-          title: "ITIL Foundation 2011",
-          issuer: "Learning Tree",
-          logo: "favicons/favicon_learningtree_big.png",
-          link: "professionalTraining/LearningTree_ITIL_Foundation_fr.pdf"
+          year: "2017",
+          title: "Google Digital Active : Fondamentaux du marketing Digital",
+          issuer: "IAB",
+          logo: "favicons/favicon_IAB.png",
+          link: ""
         },
         {
           year: "2017",
@@ -463,6 +482,12 @@ export const translations = {
           logo: "favicons/favicon_DevOpsInstitute_big.png"
         },
         {
+          year: "2018",
+          title: "PRINCE2 Foundation",
+          issuer: "AXELOS Global Best Practice",
+          logo: "favicons/favicon_Axelos_big.png"
+        },
+        {
           year: "2015",
           title: "ITIL Foundation 2011",
           issuer: "APMG International",
@@ -474,6 +499,20 @@ export const translations = {
       title: "Professional Training",
       items: [
         {
+          year: "2025",
+          title: "React from A to Z (including Hooks, Redux, and Context)",
+          issuer: "Udemy",
+          logo: "favicons/favicon_udemy.png",
+          link: "https://www.udemy.com/share/101uju3@3IrWVl0wAJ9ag8DHiTrvoF7o5DJ4iE0rTr-zJx_en8qruQ0eAZT-Mi13kVYm5pEhjg==/"
+        },
+        {
+          year: "2023",
+          title: "Leader at RUBIX",
+          issuer: "RUBIX",
+          logo: "favicons/favicon_Rubix.png",
+          link: ""
+        },
+        {
           year: "2022",
           title: "DevOps Foundation",
           issuer: "DevOps Institute",
@@ -482,10 +521,17 @@ export const translations = {
         },
         {
           year: "2021",
-          title: "MOOC SecNumacadémie - Cyber Sécurité",
+          title: "MOOC French Government Cyber Security",
           issuer: "ANSSI",
           logo: "favicons/favicon_ANSSI_big.png",
           link: "https://secnumacademie.gouv.fr"
+        },
+        {
+          year: "2021",
+          title: "Assertiveness level 2",
+          issuer: "CEGOS",
+          logo: "favicons/favicon_Cegos_big.png",
+          link: "professionalTraining/Cegos_Assertivite2.pdf"
         },
         {
           year: "2018",
@@ -503,14 +549,21 @@ export const translations = {
         },
         {
           year: "2017",
-          title: "Architecture sur AWS",
+          title: "Google Digital Active: Digital marketing fundamentals",
+          issuer: "IAB",
+          logo: "favicons/favicon_IAB.png",
+          link: ""
+        },
+        {
+          year: "2017",
+          title: "AWS Solutions Architect Associate",
           issuer: "AWS",
           logo: "favicons/favicon_AWS_big.png",
           link: "professionalTraining/AWS_ARC_fr.pdf"
         },
         {
           year: "2016",
-          title: "Performances des applications",
+          title: "Application Performance Optimization",
           issuer: "Orsys",
           logo: "favicons/favicon_Orsys_big.png",
           link: "professionalTraining/ORSYS_PFR.pdf"
@@ -524,7 +577,7 @@ export const translations = {
         },
         {
           year: "2012",
-          title: "Méthodes agiles de gestion de projets",
+          title: "Agile Project Management Methods",
           issuer: "Orsys",
           logo: "favicons/favicon_Orsys_big.png",
           link: "professionalTraining/ORSYS_MAG.pdf"
