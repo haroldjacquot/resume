@@ -28,12 +28,27 @@ export default function Experience() {
 
             {/* Liste des détails */}
             {exp.items && exp.items.length > 0 && (
-              <ul className="mt-3 space-y-1 list-disc list-inside text-gray-600 dark:text-gray-400">
+              <ul className="mt-4 space-y-2">
                 {exp.items.map((detail, i) => (
-                  <li key={i}>
-                    {detail.title && <strong>{detail.title}: </strong>}
-                    {detail.description}
-                  </li>
+                  detail.title ? (
+                    <li key={i} className="flex">
+                      <span className="mr-2 text-blue-500 dark:text-blue-400">
+                        •
+                      </span>
+                      <span className="text-gray-700 dark:text-gray-300">
+                        <strong>{detail.title}</strong> {detail.description}
+                      </span>
+                    </li>
+                  ) : (
+                    <li key={i} className="ml-6 flex">
+                      <span className="mr-2 text-gray-400 dark:text-gray-500">
+                        ◦
+                      </span>
+                      <span className="text-gray-700 dark:text-gray-300">
+                        {detail.description}
+                      </span>
+                    </li>
+                  )
                 ))}
               </ul>
             )}

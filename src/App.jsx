@@ -26,7 +26,7 @@ export default function App() {
 
   return (
     <LanguageProvider>
-      <div className="text-gray-900 transition-colors duration-300 bg-gray-100 mi-h-screen bg- dark:bg-gray-900 dark:text-gray-100">
+      <div className="text-gray-900 transition-colors duration-300 bg-gray-100 min-h-screen dark:bg-gray-900 dark:text-gray-100">
         <div className="fixed flex gap-2 top-4 right-4">
           <button
             onClick={() => setDarkMode(!darkMode)}
