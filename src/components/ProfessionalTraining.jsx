@@ -1,5 +1,4 @@
 import { useLanguage } from "../LanguageContext";
-import { translations } from "../translations";
 import { motion } from "framer-motion";
 import { FaChalkboardTeacher } from "react-icons/fa";
 

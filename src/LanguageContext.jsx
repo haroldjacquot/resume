@@ -1,14 +1,14 @@
 // src/LanguageContext.jsx
 import React, { createContext, useContext, useState } from "react";
-import { translations } from "./translations";
+import cvData from "../../cv-data.json";
 
 const LanguageContext = createContext();
 
 export function LanguageProvider({ children }) {
-  const [lang, setLang] = useState("fr");  
+  const [lang, setLang] = useState("fr");
 
   const t = (path) => {
-    return path.split('.').reduce((obj, key) => obj[key], translations[lang]);
+    return path.split('.').reduce((obj, key) => obj[key], cvData[lang]);
   };
 
   return (

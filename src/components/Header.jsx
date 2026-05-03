@@ -1,5 +1,4 @@
 import { useLanguage } from "../LanguageContext";
-import { translations } from "../translations";
 import haroldPhoto from "../assets/harold_jacquot_square3.jpg"
 
 function calculateExperience(startDate) {

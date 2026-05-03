@@ -1,0 +1,1623 @@
+{
+  "fr": {
+    "header": {
+      "title": "Digital Manager Lyon",
+      "experienceStart": "2004-01-02",
+      "subtitle": "ans d'expérience en gestion de projet et support applicatif - Environnement international",
+      "qualities": ["Organisé", "Pragmatique", "Rigoureux"]
+    },
+    "summary": "Grandes expériences au sein de DSI (département informatique) de grands groupes industriels où j'ai acquis une grande expertise en gestion d'équipe, gestion de projet et support applicatif. Depuis 2017, je travaille dans le eCommerce B2B où je gère divers équipes et projets d'infrastructure Cloud.",
+    "skills": {
+      "title": "Compétences",
+      "categories": [
+        {
+          "name": "Compétences générales",
+          "logo": "images/skills_management_big.png",
+          "highlight": true,
+          "items": [
+            {
+              "name": "Direction de projet / portefeuille projets",
+              "description": "Gestion simultanée de projets et pilotage de portefeuilles applicatifs",
+              "rating": 5
+            },
+            {
+              "name": "Management d'équipe",
+              "description": "Encadrement direct et coordination d'équipes locales et distantes pluridisciplinaires",
+              "rating": 5
+            },
+            {
+              "name": "Support applicatif (ITIL / TMA)",
+              "description": "Mise en place de processus ITIL et gestion de contrats de TMA",
+              "rating": 5
+            },
+            {
+              "name": "Gestion financière",
+              "description": "Suivi budgétaire, contrats, appels d'offres",
+              "rating": 5
+            },
+            {
+              "name": "Anglais",
+              "description": "Travail quotidien en contexte international depuis 2004",
+              "rating": 5
+            }
+          ]
+        },
+        {
+          "name": "Outils",
+          "logo": "images/skills_informatique_big.png",
+          "highlight": false,
+          "items": [
+            {"name": "MS Office", "rating": 4},
+            {"name": "NewRelic", "rating": 4},
+            {"name": "JIRA / Confluence", "rating": 4},
+            {"name": "MS Project Pro (EPM)", "rating": 4},
+            {"name": "HP Quality Center", "rating": 3},
+            {"name": "TestRail", "rating": 3},
+            {"name": "JMeter", "rating": 3}
+          ]
+        },
+        {
+          "name": "Développement",
+          "logo": "images/skills_html_big.svg",
+          "highlight": false,
+          "items": [
+            {"name": "HTML / CSS", "rating": 4},
+            {"name": "SQL / MySQL", "rating": 4},
+            {"name": "C# / .NET", "rating": 3},
+            {"name": "C / C++", "rating": 3},
+            {"name": "Java", "rating": 3},
+            {"name": "PHP", "rating": 3},
+            {"name": "REACT js", "rating": 2}
+          ]
+        }
+      ]
+    },
+    "experience": {
+      "title": "Expérience professionnelle",
+      "items": [
+        {
+          "period": "Depuis 2018",
+          "company": "Rubix",
+          "role": "Digital Group Delivery Manager",
+          "description": "Gestion d'un portefeuille projets et applications Digital Groupe comprenant des sites e-commerce B2B avec Punch-Out (31M de pages vues en 2020) et un PIM (3,5M de produits enrichis) > SAP Hybris/MySQL/Linux (distribution de fourniture industrielle - MRO & OEM) :",
+          "items": [
+            {
+              "title": "",
+              "description": "Digital Delivery service center > 20 applications, 2.000 tickets/an, équipe support L1"
+            },
+            {
+              "title": "",
+              "description": "Infrastructure/DevOps > Projet de migration AWS Lift and Shift 2018-2020, AWS FinOps (EC2, RDS/Aurora, S3), protection robots"
+            },
+            {
+              "title": "",
+              "description": "Qualité et Assurance > Coordination de 5 profils QA, NRT, test automatisés, CI/CD"
+            },
+            {
+              "title": "",
+              "description": "Coordination avec intégrateur, développement itératif, gestion contrat et budget CAPEX/OPEX"
+            },
+            {
+              "title": "Sites e-commerce B2B",
+              "description": "France, Pays-Bas, Belgique, Italie, Allemagne, Islande, Espagne, France-Legoueix, Norvège, Suède, Royaume-Uni, Finlande, Danemark, Irlande, Roumanie, Pologne, Slovaquie, République Tchèque, Hongrie"
+            },
+            {
+              "title": "Application m-commerce B2B",
+              "description": "Rubix sur Apple Store, Rubix sur Google Play"
+            }
+          ],
+          "logo": "images/logo_rubix.png",
+          "logoTitle": "images/logo_rubix_title.jpg",
+          "link": "https://rubix.com",
+          "location": "Lyon"
+        },
+        {
+          "period": "2017 - 2018",
+          "company": "IPH Group",
+          "role": "Digital Support & Maintenance Manager",
+          "description": "Gestion du support d'applications Digital :",
+          "items": [
+            {
+              "title": "",
+              "description": "Gestion d'une équipe de Support Manager > support L1 (5 ETP Europe/Tunisie) + Support L2 nearshore"
+            },
+            {
+              "title": "",
+              "description": "Mise en place de bonnes pratiques ITIL (incident, problem, request) avec Zendesk"
+            },
+            {
+              "title": "",
+              "description": "Création de KPI et dashboard > performance support et SLA"
+            }
+          ],
+          "logo": "images/logo_iph.png",
+          "logoTitle": "images/logo_iph_title.jpg",
+          "link": "http://www.group-iph.com/fr/",
+          "location": "Lyon"
+        },
+        {
+          "period": "2015 - 2017",
+          "company": "General Electric Energy Connections",
+          "role": "Delivery Group Manager",
+          "description": "Diriger et coordonner les activités d'un groupe de livraison projet et support (19 ETP onsite/offshore)",
+          "items": [
+            {
+              "title": "",
+              "description": "Support : 2,2M€ sur 22 applications - 1.492 Incidents & Work Orders - 92% de respect du SLA"
+            },
+            {
+              "title": "",
+              "description": "Projets : 2.950 jours/homme sur 11 projets"
+            },
+            {
+              "title": "Mobility Factory",
+              "description": "5 ETP offshore + 2 ETP onsite"
+            },
+            {
+              "title": "",
+              "description": "Support et montées de versions iOS d'applications iPad (SAP Mobile Platform et iFormBuilder) pour les techniciens GE (Field Service) interfacées avec SAP et SalesForce"
+            },
+            {
+              "title": "",
+              "description": "Projet d'évolutions en mode Agile (2016 > 9 Sprints de 4 semaines)"
+            },
+            {
+              "title": "Equipe PHP/Oracle",
+              "description": "2016 > 700M€ sur 10 applications – 3 ETP offshore + 4 ETP onsite"
+            },
+            {
+              "title": "",
+              "description": "Migration vers AWS (Amazon Web Services), GE SSO, montée en PHP Symfony 5.6"
+            },
+            {
+              "title": "AC1 - Configurateur de produit",
+              "description": "AutoDesk Configure One (JSP/Apache/TomCat, MS SQL)"
+            },
+            {
+              "title": "",
+              "description": "Release management mensuel pour une mise en œuvre Agile des évolutions fonctionnelles"
+            },
+            {
+              "title": "",
+              "description": "Amélioration des performances avec tests JMeter et interface SAP"
+            },
+            {
+              "title": "Intégration GE",
+              "description": "mise en place des standards GE (ISO 27002, ServiceNow, Cloud AWS)"
+            }
+          ],
+          "logo": "images/logo_ge.png",
+          "logoTitle": "images/logo_ge_title.jpg",
+          "link": "http://www.geenergyconnections.com/",
+          "location": "La Défense / Villeurbanne"
+        },
+        {
+          "period": "2014 - 2015",
+          "company": "ALSTOM IS&T",
+          "role": "Delivery Group Manager",
+          "description": "Gestion d'une équipe de support applicatif et de gestion de projet - contexte international",
+          "items": [
+            {
+              "title": "Portefeuille applications",
+              "description": "suivi budgétaire, qualité ITIL/SLA, gestion licence/maintenance"
+            },
+            {
+              "title": "",
+              "description": "2015 : 2M€ sur 14 applications - 1.217 Incidents & Work Orders - 99% de respect du SLA"
+            },
+            {
+              "title": "Portefeuille projets",
+              "description": "gestion de contrats, pilotage de projets Mobilité, Configurateur, web"
+            },
+            {
+              "title": "",
+              "description": "2015 : 2.100 jours/homme sur 11 projets"
+            }
+          ],
+          "logo": "images/logo_alstom.png",
+          "logoTitle": "images/logo_alstom_title.jpg",
+          "link": "http://www.alstom.com",
+          "location": "La Défense / Villeurbanne"
+        },
+        {
+          "period": "2012 - 2014",
+          "company": "ALSTOM IS&T",
+          "role": "Solution Manager",
+          "description": "Gestion de projets et d'applications globaux équipe jusqu'à 5 personnes - contexte international",
+          "items": [
+            {
+              "title": "Portefeuille projets",
+              "description": "appel d'offre, business case, suivi de la recette, suivi planning, suivi financier (SAP + MS Project EPM), suivi qualité, key user MS EPM"
+            },
+            {
+              "title": "",
+              "description": "2012-2014 : 2.700 jours/homme sur 30 projets"
+            },
+            {
+              "title": "Portefeuille applications",
+              "description": "TMA externalisées, outil ITSM ITIL, relation client, suivi SLA, indicateurs de performance, suivi évolutions, suivi financier, revue budgétaire"
+            },
+            {
+              "title": "",
+              "description": "2013-2014 : 800K€ sur 7 applications - déploiement + nouvelles applications"
+            },
+            {
+              "title": "",
+              "description": "2012-2013 : 1,4M€ sur 8 applications - rationalisation -> 25% d'économie"
+            }
+          ],
+          "logo": "images/logo_alstom.png",
+          "logoTitle": "images/logo_alstom_title.jpg",
+          "link": "http://www.alstom.com",
+          "location": "La Défense / Villeurbanne"
+        },
+        {
+          "period": "2010 - 2012",
+          "company": "DSI ALSTOM Grid",
+          "role": "Chef de projet / responsable d'application IT",
+          "description": "Gestion de projet (budget, planning, qualité) et support applicatif via des TMA externalisées",
+          "items": [
+            {
+              "title": "Assistance à Maitrise d'Ouvrage",
+              "description": "étude du besoin, animation de workshops, rédaction spécifications fonctionnelles, cahiers de tests (HP QC)"
+            },
+            {
+              "title": "Maitrise d'Œuvre",
+              "description": "étude de faisabilité, choix de solutions techniques, chiffrage, suivi des développements, revue de code, installation progiciel, tests d'intégration, recette"
+            },
+            {
+              "title": "e-business",
+              "description": "Catalogue de pièces détachées, CA > 1M€, interface punch-out SAP – OCI"
+            }
+          ],
+          "logo": "images/logo_alstom.png",
+          "logoTitle": "images/logo_alstom_title.jpg",
+          "link": "http://www.alstom.com",
+          "location": "La Défense / Villeurbanne"
+        },
+        {
+          "period": "2004 - 2010",
+          "company": "DSI AREVA T&D",
+          "role": "Chef de projet technique IT",
+          "description": "Gestion technique de projets globaux et support niveaux 2 et 3 des applications mises en place",
+          "items": [
+            {
+              "title": "e-business/web/CRM",
+              "description": "sites internet/intranet (OpenMarket), Siebel Service/eService et UCM"
+            },
+            {
+              "title": "ITSM",
+              "description": "gestion support application ITIL HP ServiceCenter - 23.000 utilisateurs, pilotage équipe support 3 personnes, maintenance évolutive"
+            },
+            {
+              "title": "Applications métier",
+              "description": "PHP/Oracle, Planisware - PPM IT, iNexus - actions stratégiques"
+            }
+          ],
+          "logo": "images/logo_areva.png",
+          "logoTitle": "images/logo_areva_title.jpg",
+          "link": "http://www.areva.com",
+          "location": "La Défense / Colombes / Mâcon / Villeurbanne"
+        }
+      ]
+    },
+    "certifications": {
+      "title": "Certifications",
+      "items": [
+        {
+          "year": "2025",
+          "title": "TOGAF® 9 Foundation",
+          "issuer": "The Open Group",
+          "logo": "favicons/favicon_TheOpenGroup_big.png"
+        },
+        {
+          "year": "2023",
+          "title": "AWS Certified Cloud Practitioner",
+          "issuer": "Amazon Web Services",
+          "logo": "favicons/favicon_AWS_big.png",
+          "link": "professionalTraining/AWS_ARC_fr.pdf"
+        },
+        {
+          "year": "2022",
+          "title": "DevOps Foundation",
+          "issuer": "DevOps Institute",
+          "logo": "favicons/favicon_DevOpsInstitute_big.png"
+        },
+        {
+          "year": "2018",
+          "title": "PRINCE2 Foundation",
+          "issuer": "AXELOS Global Best Practice",
+          "logo": "favicons/favicon_Axelos_big.png"
+        },
+        {
+          "year": "2017",
+          "title": "Google Digital Active : Fondamentaux du marketing Digital",
+          "issuer": "IAB",
+          "logo": "favicons/favicon_IAB.png"
+        },
+        {
+          "year": "2015",
+          "title": "ITIL Foundation 2011",
+          "issuer": "APMG International",
+          "logo": "favicons/favicon_DevOpsInstitute_big.png"
+        }
+      ]
+    },
+    "professionalTraining": {
+      "title": "Formations professionnelles",
+      "items": [
+        {
+          "year": "2025",
+          "title": "React de A à Z (Hooks, Redux, Contexte inclus)",
+          "issuer": "Udemy",
+          "logo": "favicons/favicon_udemy.png"
+        },
+        {
+          "year": "2022",
+          "title": "DevOps Foundation",
+          "issuer": "DevOps Institute",
+          "logo": "favicons/favicon_DevOpsInstitute_big.png",
+          "link": "professionalTraining/DOFD_DevOps.pdf"
+        },
+        {
+          "year": "2021",
+          "title": "MOOC SecNumacadémie - Cyber Sécurité",
+          "issuer": "ANSSI",
+          "logo": "favicons/favicon_ANSSI_big.png",
+          "link": "https://secnumacademie.gouv.fr"
+        },
+        {
+          "year": "2021",
+          "title": "S'affirmer et sortir des conflits au quotidien - Assertivité niveau 2",
+          "issuer": "CEGOS",
+          "logo": "favicons/favicon_Cegos_big.png",
+          "link": "professionalTraining/Cegos_Assertivite2.pdf"
+        },
+        {
+          "year": "2019",
+          "title": "Développer son leadership",
+          "issuer": "Adecco",
+          "logo": "favicons/favicon_Adecco.png"
+        },
+        {
+          "year": "2017",
+          "title": "Architecture sur AWS",
+          "issuer": "AWS",
+          "logo": "favicons/favicon_AWS_big.png",
+          "link": "professionalTraining/AWS_ARC_fr.pdf"
+        },
+        {
+          "year": "2017",
+          "title": "Maîtrise et affirmation de soi - Assertivité niveau 1",
+          "issuer": "CEGOS",
+          "logo": "favicons/favicon_Cegos_big.png",
+          "link": "professionalTraining/Cegos_Assertivite.pdf"
+        },
+        {
+          "year": "2016",
+          "title": "Performances des applications",
+          "issuer": "Orsys",
+          "logo": "favicons/favicon_Orsys_big.png",
+          "link": "professionalTraining/ORSYS_PFR.pdf"
+        },
+        {
+          "year": "2016",
+          "title": "Mieux se connaitre pour affirmer son Leadership",
+          "issuer": "CEGOS",
+          "logo": "favicons/favicon_Cegos_big.png",
+          "link": "professionalTraining/Cegos_Leadership.pdf"
+        },
+        {
+          "year": "2014",
+          "title": "SMP 2.3 Fundamentals",
+          "issuer": "SAP",
+          "logo": "favicons/favicon_SAP_big.png",
+          "link": "professionalTraining/SAP_MOB01_SMP_2.3.pdf"
+        },
+        {
+          "year": "2012",
+          "title": "Méthodes agiles de gestion de projets",
+          "issuer": "Orsys",
+          "logo": "favicons/favicon_Orsys_big.png",
+          "link": "professionalTraining/ORSYS_MAG.pdf"
+        }
+      ]
+    },
+    "education": {
+      "title": "Formation",
+      "items": [
+        {
+          "date": "2001 - 2004",
+          "logo": "images/logo-epita.png",
+          "school": "EPITA",
+          "diploma": "Diplôme d'ingénieur informatique - mention bien",
+          "website": "http://www.epita.fr",
+          "location": "Kremlin-Bicêtre 94"
+        },
+        {
+          "date": "2000 - 2001",
+          "logo": "images/logo-portsmouth.png",
+          "school": "Université de Portsmouth",
+          "diploma": "Bachelor Hons computing (Bac+3)",
+          "website": "http://www.port.ac.uk/",
+          "location": "Royaume-Uni"
+        },
+        {
+          "date": "1998 - 2000",
+          "logo": "images/logo-univ-lyon.png",
+          "school": "Université Claude Bernard Lyon 1",
+          "diploma": "IUT d'informatique - obtention du DUT",
+          "website": "http://iut-a.univ-lyon1.fr",
+          "location": "Bourg-en-Bresse 01"
+        },
+        {
+          "date": "1997 - 1998",
+          "logo": "images/logo-cluny.png",
+          "school": "Lycée La Prat's",
+          "diploma": "Baccalauréat Scientifique",
+          "website": "http://lyc71-laprats.ac-dijon.fr",
+          "location": "Cluny 71"
+        }
+      ]
+    },
+    "others": {
+      "title": "Autres informations",
+      "categories": [
+        {
+          "name": "Universités",
+          "items": [
+            {
+              "name": "Lycée La Prat's - Cluny",
+              "description": "le lycée où j'ai passé mon BAC Scientifique et où j'ai créé avec un autre élève un groupe informatique en collaboration avec l'ENSAM de Cluny en 1997-1998 lors de mon année de Terminale.",
+              "logo": "/images/favicon_Cluny.png",
+              "link": "http://lyc71-laprats.ac-dijon.fr"
+            },
+            {
+              "name": "IUT A Lyon 1",
+              "description": "l'université où j'ai passé mon DUT et où j'ai réellement appris ce qu'était l'informatique.",
+              "logo": "/images/favicon_iut_lyon.png",
+              "link": "http://iut-a.univ-lyon1.fr"
+            },
+            {
+              "name": "University of Portsmouth",
+              "description": "Université anglaise dans laquelle j'ai passé une année en Bachelor Hons (Bac+3).",
+              "logo": "/images/favicon_portsmouth_university.png",
+              "link": "http://www.port.ac.uk/"
+            },
+            {
+              "name": "EPITA",
+              "description": "mon école d'ingénieur informatique",
+              "logo": "/images/favicon_EPITA.png",
+              "link": "http://www.epita.fr"
+            },
+            {
+              "name": "CRISTAL",
+              "description": "la junior entreprise de mon école d'ingénieur EPITA",
+              "logo": "/images/favicon_Cristal.png",
+              "link": "http://www.cristal-asso.com"
+            }
+          ]
+        },
+        {
+          "name": "Formations professionnelles",
+          "items": [
+            {
+              "name": "Maîtrise et affirmation de soi - Assertivité niveau 1",
+              "description": "(3 jours, 2017)",
+              "logo": "/images/favicon_Cegos.png",
+              "link": "http://haroldjacquot.free.fr/Cegos_Assertivite.pdf"
+            },
+            {
+              "name": "GE export control tagger - Arrangement de Wassenaar",
+              "description": "(2 jours, 2016)",
+              "logo": "/images/favicon_ge.png",
+              "link": "http://www.wassenaar.org"
+            },
+            {
+              "name": "Mieux se connaitre pour affirmer son Leadership",
+              "description": "(3 jours, 2016)",
+              "logo": "/images/favicon_Cegos.png",
+              "link": "http://haroldjacquot.free.fr/Cegos_Leadership.pdf"
+            },
+            {
+              "name": "Alstom End to End Project Manager (E2E PM)",
+              "description": "(2014)",
+              "logo": "/images/favicon_Alstom.png",
+              "link": ""
+            },
+            {
+              "name": "Efficacité professionnelle",
+              "description": "(2 jours, 2011)",
+              "logo": "/images/favicon_Orsys.png",
+              "link": "http://haroldjacquot.free.fr/ORSYS_EFF.pdf"
+            },
+            {
+              "name": "Optimiser sa communication",
+              "description": "(3 jours, 2010)",
+              "logo": "/images/favicon_Orsys.png",
+              "link": "http://haroldjacquot.free.fr/ORSYS_COM.pdf"
+            },
+            {
+              "name": "Gérer un projet informatique, niveau 1",
+              "description": "(3 jours, 2006)",
+              "logo": "/images/favicon_Orsys.png",
+              "link": "http://haroldjacquot.free.fr/ORSYS_GPI.pdf"
+            },
+            {
+              "name": "Obtenir la certification ITIL® Foundation 2011",
+              "description": "(3 jours, 2015)",
+              "logo": "/images/favicon_learningtree.png",
+              "link": "http://haroldjacquot.free.fr/LearningTree_ITIL_Foundation_fr.pdf"
+            },
+            {
+              "name": "Obtenir la certification PRINCE2® Foundation",
+              "description": "(3 jours, 2018)",
+              "logo": "/images/favicon_Cegos.png",
+              "link": "http://haroldjacquot.free.fr/Cegos_PRINCE2.pdf"
+            },
+            {
+              "name": "Développer son leadership",
+              "description": "(2 jours, 2019)",
+              "logo": "/images/favicon_AKTO.png",
+              "link": "Intergros_Developper_son_leadership.pdf"
+            },
+            {
+              "name": "S'affirmer et sortir des conflits au quotidien - Assertivité niveau 2",
+              "description": "(4 jours, 2021)",
+              "logo": "/images/favicon_Cegos.png",
+              "link": "http://haroldjacquot.free.fr/Cegos_Assertivite2.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Entreprises",
+          "items": [
+            {
+              "name": "Thales",
+              "description": "ma première expérience en tant que stagiaire en 2000 à Bagneux. L'entreprise s'appelait alors Thomson-CSF Airsys.",
+              "logo": "/images/favicon_Thales.png",
+              "link": "http://www.thalesgroup.com"
+            },
+            {
+              "name": "AREVA",
+              "description": "ma première entreprise où j'ai débuté comme stagiaire en 2004 puis chef de projet technique (AREVA T&D à l'époque) à Mâcon, La Défense et Colombes. Rachetée en 2010 conjointement par Alstom (partie Transmission) et Schneider Electric (partie Distribution).",
+              "logo": "/images/favicon_Areva.png",
+              "link": "http://www.areva.com"
+            },
+            {
+              "name": "ALSTOM",
+              "description": "j'y ai travaillé en 2002 comme stagiaire puis en 2003 en tant que prestataire via la Junior Entreprise de mon école d'ingénieur (EPITA, Cristal) 1 jour par semaine comme webmaster de l'intranet de la DSI. J'y suis retourné en 2010 suite au rachat d'AREVA T&D. Depuis, la partie Energie d'Alstom (Grid, Power et Power Renewable) ont été rachetée par General Electric en novembre 2015.",
+              "logo": "/images/favicon_Alstom.png",
+              "link": "http://www.alstom.com"
+            },
+            {
+              "name": "GE",
+              "description": "j'ai travaillé entre 2015 et 2017 dans la division Energy Connection sur les sites de La Défense et Villeurbanne.",
+              "logo": "/images/favicon_GE.png",
+              "link": "http://www.ge.com"
+            },
+            {
+              "name": "IPH Group",
+              "description": "j'ai travaillé chez IPH en 2017 juste avant le mariage avec Brammer pour devenir Rubix.",
+              "logo": "/images/favicon_IPH.png",
+              "link": "http://www.group-iph.com"
+            },
+            {
+              "name": "Rubix",
+              "description": "mon entreprise actuelle.",
+              "logo": "/images/favicon_Rubix.png",
+              "link": "http://rubix.com"
+            }
+          ]
+        },
+        {
+          "name": "Progiciels",
+          "items": [
+            {
+              "name": "i-Nexus",
+              "description": "outil de gestion d'actions stratégiques. Support applicatif chez AREVA T&D (utilisation par le business). Utilisation chez Alstom IS&T pour la gestion du portefeuille projet.",
+              "logo": "/images/favicon_iNexus.png",
+              "link": "http://www.i-nexus.com"
+            },
+            {
+              "name": "Planisware",
+              "description": "outil de gestion de portefeuille de projets utilisé pour la gestion des projets IT chez AREVA.",
+              "logo": "/images/favicon_Planisware.png",
+              "link": "http://fr.planisware.com"
+            },
+            {
+              "name": "Siebel",
+              "description": "outil CRM utilisé chez AREVA et Alstom pour la gestion du support des clients d'un logiciel de l'entreprise (module Service et eService) et pour la gestion de la base clients (module UCM). Noms internes : Magellan et STOCK.",
+              "logo": "/images/favicon_Siebel.png",
+              "link": "http://www.oracle.com/fr/products/applications/siebel/index.html"
+            },
+            {
+              "name": "HP OpenView Service Center (ex-Perigrine)",
+              "description": "outil ITSM déployé sur toute l'entreprise AREVA T&D avec la norme ITIL v2 pour la gestion de call/incident, request, catalogue de biens et de services. Nom interne : Picasso.",
+              "logo": "/images/favicon_HP.png",
+              "link": ""
+            },
+            {
+              "name": "HP Quality Center",
+              "description": "outil utilisé chez AREVA et Alstom pour la gestion et l'automatisation des tests lors de phases projets.",
+              "logo": "/images/favicon_HP.png",
+              "link": "https://h10078.www1.hp.com/cda/hpms/display/main/hpms_content.jsp?zn=bto&amp;cp=1-11-127-24_4000_100__"
+            },
+            {
+              "name": "HP PPM",
+              "description": "outil utilisé chez AREVA pour la gestion des demandes d'évolution sur les applications. Nom interne : DEMAND.",
+              "logo": "/images/favicon_HP.png",
+              "link": "http://www8.hp.com/fr/fr/software-solutions/software.html?compURI=1172141#.UPPJ-vJ_6Ag"
+            },
+            {
+              "name": "Spelog",
+              "description": "outil e-business utilisé chez AREVA et Alstom pour la gestion de pièces détachées et de SAV dans le monde industriel en général (éditeur Axess groupe). Interfacé avec l'outil de e-procurement du client RTE (filiale d'EDF) via le standard OCI - punch-out. Nom interne : SPARKS.",
+              "logo": "/images/favicon_Spelog.png",
+              "link": "http://www.spelog.com"
+            },
+            {
+              "name": "Concept",
+              "description": "outil de configurateur de produits utilisé chez Alstom dans le cadre industriel (éditeur Configure One). Interfacé avec l'ERP SAP via le module NLINK pour la création des tenders et des orders. Interfacé avec le CRM d'Alstom Grid SalesForce.com pour les liens avec les opportunités. Nom interne : AC1.",
+              "logo": "/images/favicon_ConfigureOne.png",
+              "link": "http://www.configureone.com"
+            },
+            {
+              "name": "Joomla",
+              "description": "outil de gestion de contenu (CMS) web et open source que j'ai utilisé pour des projets personnels.",
+              "logo": "/images/favicon_Joomla.png",
+              "link": "http://www.joomla.org"
+            },
+            {
+              "name": "MS EPM",
+              "description": "outil de gestion de projet utilisé de manière importante chez Alstom (MS Enterprise Project Management). Gestion de la charge/capacité, du budget, du planning, des rapports projets... Interfacé avec l'outil PPM i-Nexus.",
+              "logo": "/images/favicon_Microsoft.png",
+              "link": "http://www.microsoft.com/project/en-us/solutions.aspx"
+            },
+            {
+              "name": "iFormBuilder",
+              "description": "service en ligne de création de formulaire mobile. Utilisé chez Alstom Grid pour les inspections de transformateurs du client Kahramaa (Qatar). Interfacé à SalesForce.com pour la validation.",
+              "logo": "/images/favicon_iFormBuilder.png",
+              "link": "https://www.iformbuilder.com/"
+            },
+            {
+              "name": "SAP Mobile Platform (SMP)",
+              "description": "outil de gestion d'applications mobiles, modules Agentry et Work Manager. Utilisé chez Alstom Grid pour créer/gérer des applications iPad d'inspections de transformateurs (Mobility Trans-FIT) et de disjoncteurs (Mobility CBR-FIT) de tous les clients avec le module Agentry. Interfacé à SalesForce.com pour la validation des données. Module Work Manager implémenté pour la gestion des mission order (Mobility Mission Manager). Interfacé avec l'ERP SAP.",
+              "logo": "/images/favicon_SMP.png",
+              "link": "https://help.sap.com/viewer/p/SAP_MOBILE_PLATFORM_SERVER"
+            },
+            {
+              "name": "BMC Remedy",
+              "description": "outil ITSM utilisé chez Alstom pour la gestion des incidents, des requêtes, des problèmes, des changements... Principalement utilisé pour la gestion du support d'applications. Nom interne : ITSM7.",
+              "logo": "/images/favicon_BMC.png",
+              "link": "http://www.bmc.com/it-solutions/remedy-itsm.html"
+            },
+            {
+              "name": "Livelink",
+              "description": "outil de GED utilisé chez AREVA & Alstom pour gérer les documents business et IT (éditeur OpenText).",
+              "logo": "/images/favicon_livelink.png",
+              "link": "http://www.opentext.com/livelink"
+            },
+            {
+              "name": "TrackWise",
+              "description": "outil de gestion de la qualité des fournisseurs utilisé chez Alstom (éditeur SpartaSystems). Nom interne : SQM.",
+              "logo": "/images/favicon_TrackWise.png",
+              "link": "http://www.spartasystems.com/trackwise/"
+            },
+            {
+              "name": "NLINK",
+              "description": "connecteur SAP certifié utilisé avec Concept/Configure One pour une interface avec SAP (éditeur Junot Systems).",
+              "logo": "/images/favicon_NLINK.png",
+              "link": "http://junotsystems.com/sap-connector/"
+            },
+            {
+              "name": "ServiceNow",
+              "description": "outil ITSM en mode SaaS pour la gestion des ticket utilisé chez GE",
+              "logo": "/images/favicon_SN.png",
+              "link": "https://www.servicenow.com/"
+            },
+            {
+              "name": "AWS (Amazon Web Service)",
+              "description": "service Cloud d'Amazon utilisé chez GE et RUBIX",
+              "logo": "/images/favicon_AWS.png",
+              "link": "https://aws.amazon.com"
+            },
+            {
+              "name": "SAP Hybris",
+              "description": "solution de gestion de site e-commerce et PIM",
+              "logo": "/images/favicon_Hybris.png",
+              "link": "https://www.hybris.com/fr/"
+            },
+            {
+              "name": "Zendesk",
+              "description": "outil ITSM en mode SaaS pour la gestion des ticket utilisé chez IPH",
+              "logo": "/images/favicon_Zendesk.png",
+              "link": "https://www.zendesk.fr/"
+            },
+            {
+              "name": "DataDome",
+              "description": "solution de protection de site web contre les robots utilisée chez IPH puis Rubix. Mon interview par Datadome : \"Avec DataDome, nos serveurs tournent pour nos clients, pas pour nos concurrents\"",
+              "logo": "/images/favicon_datadome.png",
+              "link": "https://datadome.co/fr/"
+            },
+            {
+              "name": "JMeter",
+              "description": "outil de stress test utilisé chez Alstom et GE",
+              "logo": "/images/favicon_JMeter.png",
+              "link": "https://jmeter.apache.org/"
+            },
+            {
+              "name": "JIRA",
+              "description": "module de la suite Atlassian de gestion de tickets utilisé chez RUBIX pour l'organisation des développements en mode Agile",
+              "logo": "/images/favicon_jira.png",
+              "link": "https://www.atlassian.com/fr/software/jira"
+            },
+            {
+              "name": "Confluence",
+              "description": "module de la suite Atlassian de gestion de documentation utilisé chez RUBIX pour la documentation technique",
+              "logo": "/images/favicon_confluence.png",
+              "link": "https://www.atlassian.com/fr/software/confluence"
+            },
+            {
+              "name": "Jenkins",
+              "description": "outil d'intégration continue utilisé chez RUBIX pour gérer les jobs sur les applications e-commerce et PIM",
+              "logo": "/images/favicon_jenkins.png",
+              "link": "https://jenkins.io/"
+            },
+            {
+              "name": "Teams",
+              "description": "module Microsoft de travail collaboratif",
+              "logo": "/images/favicon_teams.png",
+              "link": "https://products.office.com/fr-fr/microsoft-teams/group-chat-software"
+            },
+            {
+              "name": "Katalon",
+              "description": "outil d'automatisation de tests utilisé pour gérer les campagnes NRT sur les sites ecommerce de RUBIX",
+              "logo": "/images/favicon_katalon.png",
+              "link": "https://www.katalon.com/"
+            },
+            {
+              "name": "New Relic",
+              "description": "outil de monitoring utilisé chez RUBIX pour la surveillance des applications Digital",
+              "logo": "/images/favicon_newrelic.png",
+              "link": "https://newrelic.fr/"
+            },
+            {
+              "name": "Ingenico",
+              "description": "service de paiement en ligne utilisé chez RUBIX sur les sites ecommerce",
+              "logo": "/images/favicon_ingenico.png",
+              "link": "https://www.ingenico.com/fr"
+            },
+            {
+              "name": "TestRail",
+              "description": "outil de gestion de scénarios et campagnes de tests utilisé chez RUBIX",
+              "logo": "/images/favicon_testrail.png",
+              "link": "https://www.gurock.com/testrail/"
+            },
+            {
+              "name": "BrowserStack",
+              "description": "service de test web et mobile en ligne permettant d'utiliser différents navigateur et appareils mobiles utilisé chez RUBIX. Mon interview en anglais par BrowserStack : \"Rubix achieves test automation in Agile Development with BrowserStack\"",
+              "logo": "/images/favicon_BrowserStack.png",
+              "link": "https://www.browserstack.com/"
+            }
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "title": "Me contacter",
+      "email": "Envoyer un email",
+      "linkedin": "Profil LinkedIn",
+      "github": "Profil GitHub"
+    }
+  },
+  "en": {
+    "header": {
+      "title": "Digital Manager Lyon",
+      "experienceStart": "2004-01-02",
+      "subtitle": "years experience in project management and application support — International environment",
+      "qualities": ["Organized", "Pragmatic", "Thorough"]
+    },
+    "summary": "With significant experience in IT departments of large industrial companies, I have honed my skills in team leadership, project management, and application support. Since 2017, I have been immersed in the B2B eCommerce environment, managing multiple teams and overseeing cloud projects. I am organized, pragmatic, and thorough, excelling in all phases of project management from pre-study (opportunity study, feasibility study, RFP, POC) through to the design phase and project follow-up, including budget management, planning, quality assurance, and chairing steering committees. I am adept at preparing and managing User Acceptance Testing (UAT) and providing application support through Outsourced Application Management contracts (TMA in French).",
+    "skills": {
+      "title": "Skills",
+      "categories": [
+        {
+          "name": "Soft skills",
+          "logo": "images/skills_management_big.png",
+          "highlight": true,
+          "items": [
+            {
+              "name": "Projects and portfolio management",
+              "description": "Management of projects and application portfolios",
+              "rating": 5
+            },
+            {
+              "name": "Team management",
+              "description": "Direct supervision and coordination of local and offshore teams",
+              "rating": 5
+            },
+            {
+              "name": "Application support (ITIL / TPMA)",
+              "description": "ITIL process implementation and outsourced contract management",
+              "rating": 5
+            },
+            {
+              "name": "Financial management",
+              "description": "Budget monitoring, contracts, RFP/RFQ",
+              "rating": 5
+            },
+            {
+              "name": "English",
+              "description": "Able to work comfortably in English since 2004 in international contexts",
+              "rating": 5
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "logo": "images/skills_informatique_big.png",
+          "highlight": false,
+          "items": [
+            {"name": "MS Office", "rating": 4},
+            {"name": "NewRelic", "rating": 4},
+            {"name": "JIRA / Confluence", "rating": 4},
+            {"name": "MS Project Pro (EPM)", "rating": 4},
+            {"name": "HP Quality Center", "rating": 3},
+            {"name": "TestRail", "rating": 3},
+            {"name": "JMeter", "rating": 3}
+          ]
+        },
+        {
+          "name": "Development",
+          "logo": "images/skills_html_big.svg",
+          "highlight": false,
+          "items": [
+            {"name": "HTML / CSS", "rating": 4},
+            {"name": "SQL / MySQL", "rating": 4},
+            {"name": "C# / .NET", "rating": 3},
+            {"name": "C / C++", "rating": 3},
+            {"name": "Java", "rating": 3},
+            {"name": "PHP", "rating": 3},
+            {"name": "REACT js", "rating": 2}
+          ]
+        }
+      ]
+    },
+    "experience": {
+      "title": "Work Experience",
+      "items": [
+        {
+          "period": "Since 2018",
+          "company": "Rubix",
+          "role": "Digital Group Delivery Manager",
+          "description": "Digital Group projects and applications portfolio management including B2B e-commerce website with Punch-Out (31M page viewed in 2020) and PIM (3,5M enriched product) > SAP Hybris/MySQL/Linux (industrial supplies distributor - MRO & OEM):",
+          "items": [
+            {
+              "title": "",
+              "description": "Digital Delivery service center > 20 Applications, 2.000 tickets/year, Support team L1"
+            },
+            {
+              "title": "",
+              "description": "Infrastructure/DevOps > AWS Lift and Shift migration project 2018-2020, AWS FinOps (EC2, RDS/Aurora, S3), Bot protection"
+            },
+            {
+              "title": "",
+              "description": "Quality and Assurance > Coordination of 5 QA profiles, NRT, test automation, CI/CD"
+            },
+            {
+              "title": "",
+              "description": "Coordination with integrator, iterative development, contract management and CAPEX/OPEX budget"
+            },
+            {
+              "title": "B2B e-commerce websites",
+              "description": "France, Netherlands, Belgium, Italy, Germany, Iceland, Spain, France-Legoueix, Norway, Sweden, United-Kingdom, Finland, Denmark, Ireland, Romania, Poland, Slovakia, Czech Republic, Hungary"
+            },
+            {
+              "title": "B2B m-commerce application",
+              "description": "Rubix on Apple Store, Rubix on Google Play"
+            }
+          ],
+          "logo": "images/logo_rubix.png",
+          "logoTitle": "images/logo_rubix_title.jpg",
+          "link": "https://rubix.com",
+          "location": "Lyon"
+        },
+        {
+          "period": "2017 - 2018",
+          "company": "IPH Group",
+          "role": "Digital Support & Maintenance Manager",
+          "description": "Digital applications support management:",
+          "items": [
+            {
+              "title": "",
+              "description": "Team management of Support Manager > L1 support (5 FTE Europe/Tunisia) + L2 support nearshore"
+            },
+            {
+              "title": "",
+              "description": "ITIL best practices setup (incident, problem, request) with Zendesk"
+            },
+            {
+              "title": "",
+              "description": "KPI and dashboard creation > support performance and SLA"
+            }
+          ],
+          "logo": "images/logo_iph.png",
+          "logoTitle": "images/logo_iph_title.jpg",
+          "link": "http://www.group-iph.com/en/",
+          "location": "Lyon"
+        },
+        {
+          "period": "2015 - 2017",
+          "company": "General Electric Energy Connections",
+          "role": "Delivery Group Manager",
+          "description": "Lead and coordinate the Delivery Group activities for project and support (19 FTE onsite/offshore)",
+          "items": [
+            {
+              "title": "",
+              "description": "Support: 2,2M€ on 22 applications - 1.492 Incidents & Work Orders - 92% SLA respected"
+            },
+            {
+              "title": "",
+              "description": "Projects: 2.950 man-days for 11 projects"
+            },
+            {
+              "title": "Outsourced Mobility Factory",
+              "description": "5 offshore FTE + 2 onsite FTE"
+            },
+            {
+              "title": "",
+              "description": "Support and iOS upgrade of iPad applications (SAP Mobile Platform et iFormBuilder) for GE Field Service technicians interfaced with SAP and SalesForce"
+            },
+            {
+              "title": "",
+              "description": "Agile enhancements project (2016 > 9 Sprints of 4 weeks)"
+            },
+            {
+              "title": "PHP/Oracle team",
+              "description": "2016 > 700M€ on 10 applications - 3 offshore FTE + 4 onsite FTE"
+            },
+            {
+              "title": "",
+              "description": "Migration to AWS (Amazon Web Services), GE SSO, upgrade to PHP Symfony 5.6"
+            },
+            {
+              "title": "AC1 – Product configurator",
+              "description": "AutoDesk Configure One (JSP/Apache/TomCat, MS SQL)"
+            },
+            {
+              "title": "",
+              "description": "Monthly release management for Agile functional enhancements setup"
+            },
+            {
+              "title": "",
+              "description": "Performance improvement with JMeter tests and SAP interface"
+            },
+            {
+              "title": "GE integration",
+              "description": "GE standards setup (ISO 27002, ServiceNow, AWS Cloud)"
+            }
+          ],
+          "logo": "images/logo_ge.png",
+          "logoTitle": "images/logo_ge_title.jpg",
+          "link": "http://www.geenergyconnections.com/",
+          "location": "La Défense / Villeurbanne"
+        },
+        {
+          "period": "2014 - 2015",
+          "company": "ALSTOM IS&T",
+          "role": "Delivery Group Manager",
+          "description": "Team management on project management and application support – international context",
+          "items": [
+            {
+              "title": "Applications portfolio",
+              "description": "budget follow-up, quality ITIL/SLA, license/maintenance management"
+            },
+            {
+              "title": "",
+              "description": "2015: 2M€ on 14 applications - 1.217 Incidents & Work Orders - 99% SLA respected"
+            },
+            {
+              "title": "Projects portfolio",
+              "description": "contracts management, Mobility project lead, Configurator, web"
+            },
+            {
+              "title": "",
+              "description": "2015: 2.100 man-days on 11 projects"
+            }
+          ],
+          "logo": "images/logo_alstom.png",
+          "logoTitle": "images/logo_alstom_title.jpg",
+          "link": "http://www.alstom.com",
+          "location": "La Défense / Villeurbanne"
+        },
+        {
+          "period": "2012 - 2014",
+          "company": "ALSTOM IS&T",
+          "role": "Solution Manager",
+          "description": "Team management on project management and application support – international context",
+          "items": [
+            {
+              "title": "Projects portfolio",
+              "description": "Request For Proposal, business case, UAT, project planning, financial (SAP + MS Project EPM), quality follow-ups, MS EPM key user"
+            },
+            {
+              "title": "",
+              "description": "2012-2014: 2.700 man-days on 30 projects"
+            },
+            {
+              "title": "Applications portfolio",
+              "description": "Third Party Application Maintenance, ITIL ITSM tool, client relationships, SLA, KPI, budget review"
+            },
+            {
+              "title": "",
+              "description": "2013-2014: 800K€ on 7 applications - roll-out + new applications"
+            },
+            {
+              "title": "",
+              "description": "2012-2013: 1.4M€ on 8 applications - streamline -> 25% savings"
+            }
+          ],
+          "logo": "images/logo_alstom.png",
+          "logoTitle": "images/logo_alstom_title.jpg",
+          "link": "http://www.alstom.com",
+          "location": "La Défense / Villeurbanne"
+        },
+        {
+          "period": "2010 - 2012",
+          "company": "IT ALSTOM Grid",
+          "role": "IT Project/Application Manager",
+          "description": "Project management (budget, plan, quality) and application support with outsourced contract",
+          "items": [
+            {
+              "title": "Business support",
+              "description": "Requirement studies, workshops, functional specifications, HP QC test cases"
+            },
+            {
+              "title": "IT management",
+              "description": "Feasibility studies, technical solution decisions, quotations, developments follow-up, code review, software installation, integration tests, delivery to datacentre"
+            },
+            {
+              "title": "e-business",
+              "description": "Spare part online catalogue, turnover 1M€+, punch-out SAP – OCI interface"
+            }
+          ],
+          "logo": "images/logo_alstom.png",
+          "logoTitle": "images/logo_alstom_title.jpg",
+          "link": "http://www.alstom.com",
+          "location": "La Défense / Villeurbanne"
+        },
+        {
+          "period": "2004 - 2010",
+          "company": "IT AREVA T&D",
+          "role": "IT technical Project Manager",
+          "description": "Technical management of global project and support level 2 & 3 of installed application",
+          "items": [
+            {
+              "title": "e-business/web/CRM",
+              "description": "internet/intranet sites (OpenMarket), Siebel Service/eService and UCM"
+            },
+            {
+              "title": "ITSM",
+              "description": "ITIL HP Service Centre application support management – 23,000 users, management of a team of 3, small enhancements"
+            },
+            {
+              "title": "Business applications",
+              "description": "PHP/Oracle applications, Planisware – IT Projects portfolio management, iNexus – strategic actions"
+            }
+          ],
+          "logo": "images/logo_areva.png",
+          "logoTitle": "images/logo_areva_title.jpg",
+          "link": "http://www.areva.com",
+          "location": "La Défense / Colombes / Mâcon / Villeurbanne"
+        }
+      ]
+    },
+    "certifications": {
+      "title": "Certifications",
+      "items": [
+        {
+          "year": "2025",
+          "title": "TOGAF® 9 Foundation",
+          "issuer": "The Open Group",
+          "logo": "favicons/favicon_TheOpenGroup_big.png"
+        },
+        {
+          "year": "2023",
+          "title": "AWS Certified Cloud Practitioner",
+          "issuer": "Amazon Web Services",
+          "logo": "favicons/favicon_AWS_big.png"
+        },
+        {
+          "year": "2022",
+          "title": "DevOps Foundation",
+          "issuer": "DevOps Institute",
+          "logo": "favicons/favicon_DevOpsInstitute_big.png"
+        },
+        {
+          "year": "2018",
+          "title": "PRINCE2 Foundation",
+          "issuer": "AXELOS Global Best Practice",
+          "logo": "favicons/favicon_Axelos_big.png"
+        },
+        {
+          "year": "2017",
+          "title": "Google Digital Active : Fondamentaux du marketing Digital",
+          "issuer": "IAB",
+          "logo": "favicons/favicon_IAB.png"
+        },
+        {
+          "year": "2015",
+          "title": "ITIL Foundation 2011",
+          "issuer": "APMG International",
+          "logo": "favicons/favicon_DevOpsInstitute_big.png"
+        }
+      ]
+    },
+    "professionalTraining": {
+      "title": "Professional Training",
+      "items": [
+        {
+          "year": "2025",
+          "title": "React from A to Z (including Hooks, Redux, and Context)",
+          "issuer": "Udemy",
+          "logo": "favicons/favicon_udemy.png"
+        },
+        {
+          "year": "2022",
+          "title": "DevOps Foundation",
+          "issuer": "DevOps Institute",
+          "logo": "favicons/favicon_DevOpsInstitute_big.png",
+          "link": "professionalTraining/DOFD_DevOps.pdf"
+        },
+        {
+          "year": "2021",
+          "title": "MOOC French Government Cyber Security",
+          "issuer": "ANSSI",
+          "logo": "favicons/favicon_ANSSI_big.png",
+          "link": "https://secnumacademie.gouv.fr"
+        },
+        {
+          "year": "2021",
+          "title": "Assertiveness level 2",
+          "issuer": "CEGOS",
+          "logo": "favicons/favicon_Cegos_big.png",
+          "link": "professionalTraining/Cegos_Assertivite2.pdf"
+        },
+        {
+          "year": "2019",
+          "title": "Improve your leadership",
+          "issuer": "Adecco",
+          "logo": "favicons/favicon_Adecco.png"
+        },
+        {
+          "year": "2017",
+          "title": "AWS architecture",
+          "issuer": "AWS",
+          "logo": "favicons/favicon_AWS_big.png",
+          "link": "professionalTraining/AWS_ARC_fr.pdf"
+        },
+        {
+          "year": "2017",
+          "title": "Assertiveness level 1",
+          "issuer": "CEGOS",
+          "logo": "favicons/favicon_Cegos_big.png",
+          "link": "professionalTraining/Cegos_Assertivite.pdf"
+        },
+        {
+          "year": "2016",
+          "title": "Applications performance, measure and improvement",
+          "issuer": "Orsys",
+          "logo": "favicons/favicon_Orsys_big.png",
+          "link": "professionalTraining/ORSYS_PFR.pdf"
+        },
+        {
+          "year": "2016",
+          "title": "Better know yourself to assert your leadership",
+          "issuer": "CEGOS",
+          "logo": "favicons/favicon_Cegos_big.png",
+          "link": "professionalTraining/Cegos_Leadership.pdf"
+        },
+        {
+          "year": "2014",
+          "title": "SMP 2.3 Fundamentals",
+          "issuer": "SAP",
+          "logo": "favicons/favicon_SAP_big.png",
+          "link": "professionalTraining/SAP_MOB01_SMP_2.3.pdf"
+        },
+        {
+          "year": "2012",
+          "title": "Agile Project Management Methods",
+          "issuer": "Orsys",
+          "logo": "favicons/favicon_Orsys_big.png",
+          "link": "professionalTraining/ORSYS_MAG.pdf"
+        }
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "items": [
+        {
+          "date": "2001 - 2004",
+          "logo": "images/logo-epita.png",
+          "school": "EPITA",
+          "diploma": "IT Engineering School with honours",
+          "website": "http://www.epita.fr",
+          "location": "Kremlin-Bicêtre, France"
+        },
+        {
+          "date": "2000 - 2001",
+          "logo": "images/logo-portsmouth.png",
+          "school": "University of Portsmouth",
+          "diploma": "Bachelor Hons computing",
+          "website": "http://www.port.ac.uk/",
+          "location": "Portsmouth, United-Kingdom"
+        },
+        {
+          "date": "1998 - 2000",
+          "logo": "images/logo-univ-lyon.png",
+          "school": "University Claude Bernard Lyon 1",
+          "diploma": "IT Technician Degree",
+          "website": "http://iut-a.univ-lyon1.fr",
+          "location": "Bourg-en-Bresse, France"
+        },
+        {
+          "date": "1997 - 1998",
+          "logo": "images/logo-cluny.png",
+          "school": "Lycée La Prat's",
+          "diploma": "Scientific Baccalauréat (equivalent of A levels, Cluny 71, France)",
+          "website": "http://lyc71-laprats.ac-dijon.fr",
+          "location": "Cluny, France"
+        }
+      ]
+    },
+    "others": {
+      "title": "Other information",
+      "categories": [
+        {
+          "name": "Universities",
+          "items": [
+            {
+              "name": "Lycée La Prat's - Cluny",
+              "description": "the high school where I passed my Scientific Baccalaureate and where I created a computer group in collaboration with ENSAM Cluny in 1997-1998 during my final year.",
+              "logo": "/images/favicon_Cluny.png",
+              "link": "http://lyc71-laprats.ac-dijon.fr"
+            },
+            {
+              "name": "IUT A Lyon 1",
+              "description": "the university where I passed my DUT and where I really learned what computer science is.",
+              "logo": "/images/favicon_iut_lyon.png",
+              "link": "http://iut-a.univ-lyon1.fr"
+            },
+            {
+              "name": "University of Portsmouth",
+              "description": "English university where I spent a year in Bachelor Hons (Bac+3).",
+              "logo": "/images/favicon_portsmouth_university.png",
+              "link": "http://www.port.ac.uk/"
+            },
+            {
+              "name": "EPITA",
+              "description": "my engineering school in computer science",
+              "logo": "/images/favicon_EPITA.png",
+              "link": "http://www.epita.fr"
+            },
+            {
+              "name": "CRISTAL",
+              "description": "the junior enterprise of my engineering school EPITA",
+              "logo": "/images/favicon_Cristal.png",
+              "link": "http://www.cristal-asso.com"
+            }
+          ]
+        },
+        {
+          "name": "Professional Training",
+          "items": [
+            {
+              "name": "Self-mastery and assertiveness - Assertivity level 1",
+              "description": "(3 days, 2017)",
+              "logo": "/images/favicon_Cegos.png",
+              "link": "http://haroldjacquot.free.fr/Cegos_Assertivite.pdf"
+            },
+            {
+              "name": "GE export control tagger - Wassenaar Arrangement",
+              "description": "(2 days, 2016)",
+              "logo": "/images/favicon_ge.png",
+              "link": "http://www.wassenaar.org"
+            },
+            {
+              "name": "Better know yourself to assert your Leadership",
+              "description": "(3 days, 2016)",
+              "logo": "/images/favicon_Cegos.png",
+              "link": "http://haroldjacquot.free.fr/Cegos_Leadership.pdf"
+            },
+            {
+              "name": "Alstom End to End Project Manager (E2E PM)",
+              "description": "(2014)",
+              "logo": "/images/favicon_Alstom.png",
+              "link": ""
+            },
+            {
+              "name": "Professional efficiency",
+              "description": "(2 days, 2011)",
+              "logo": "/images/favicon_Orsys.png",
+              "link": "http://haroldjacquot.free.fr/ORSYS_EFF.pdf"
+            },
+            {
+              "name": "Optimize your communication",
+              "description": "(3 days, 2010)",
+              "logo": "/images/favicon_Orsys.png",
+              "link": "http://haroldjacquot.free.fr/ORSYS_COM.pdf"
+            },
+            {
+              "name": "Manage an IT project, level 1",
+              "description": "(3 days, 2006)",
+              "logo": "/images/favicon_Orsys.png",
+              "link": "http://haroldjacquot.free.fr/ORSYS_GPI.pdf"
+            },
+            {
+              "name": "Obtain ITIL® Foundation 2011 certification",
+              "description": "(3 days, 2015)",
+              "logo": "/images/favicon_learningtree.png",
+              "link": "http://haroldjacquot.free.fr/LearningTree_ITIL_Foundation_fr.pdf"
+            },
+            {
+              "name": "Obtain PRINCE2® Foundation certification",
+              "description": "(3 days, 2018)",
+              "logo": "/images/favicon_Cegos.png",
+              "link": "http://haroldjacquot.free.fr/Cegos_PRINCE2.pdf"
+            },
+            {
+              "name": "Develop your leadership",
+              "description": "(2 days, 2019)",
+              "logo": "/images/favicon_AKTO.png",
+              "link": "Intergros_Developper_son_leadership.pdf"
+            },
+            {
+              "name": "Assert yourself and get out of daily conflicts - Assertivity level 2",
+              "description": "(4 days, 2021)",
+              "logo": "/images/favicon_Cegos.png",
+              "link": "http://haroldjacquot.free.fr/Cegos_Assertivite2.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Companies",
+          "items": [
+            {
+              "name": "Thales",
+              "description": "my first experience as an intern in 2000 in Bagneux. The company was then called Thomson-CSF Airsys.",
+              "logo": "/images/favicon_Thales.png",
+              "link": "http://www.thalesgroup.com"
+            },
+            {
+              "name": "AREVA",
+              "description": "my first company where I started as an intern in 2004 and then as a technical project manager (AREVA T&D at the time) in Mâcon, La Défense and Colombes. Acquired in 2010 jointly by Alstom (Transmission division) and Schneider Electric (Distribution division).",
+              "logo": "/images/favicon_Areva.png",
+              "link": "http://www.areva.com"
+            },
+            {
+              "name": "ALSTOM",
+              "description": "I worked there in 2002 as an intern and then in 2003 as a service provider via my engineering school's Junior Enterprise (EPITA, Cristal) 1 day per week as intranet webmaster of the IT department. I returned there in 2010 following the acquisition of AREVA T&D. Since then, Alstom's Energy division (Grid, Power and Power Renewable) has been acquired by General Electric in November 2015.",
+              "logo": "/images/favicon_Alstom.png",
+              "link": "http://www.alstom.com"
+            },
+            {
+              "name": "GE",
+              "description": "I worked between 2015 and 2017 in the Energy Connections division on the La Défense and Villeurbanne sites.",
+              "logo": "/images/favicon_GE.png",
+              "link": "http://www.ge.com"
+            },
+            {
+              "name": "IPH Group",
+              "description": "I worked at IPH in 2017 just before the merger with Brammer to become Rubix.",
+              "logo": "/images/favicon_IPH.png",
+              "link": "http://www.group-iph.com"
+            },
+            {
+              "name": "Rubix",
+              "description": "my current company.",
+              "logo": "/images/favicon_Rubix.png",
+              "link": "http://rubix.com"
+            }
+          ]
+        },
+        {
+          "name": "Software",
+          "items": [
+            {
+              "name": "i-Nexus",
+              "description": "strategic actions management tool. Application support at AREVA T&D (business use). Use at Alstom IS&T for project portfolio management.",
+              "logo": "/images/favicon_iNexus.png",
+              "link": "http://www.i-nexus.com"
+            },
+            {
+              "name": "Planisware",
+              "description": "IT project portfolio management tool used for managing IT projects at AREVA.",
+              "logo": "/images/favicon_Planisware.png",
+              "link": "http://fr.planisware.com"
+            },
+            {
+              "name": "Siebel",
+              "description": "CRM tool used at AREVA and Alstom for client support of a company software (Service and eService modules) and for client base management (UCM module). Internal names: Magellan and STOCK.",
+              "logo": "/images/favicon_Siebel.png",
+              "link": "http://www.oracle.com/fr/products/applications/siebel/index.html"
+            },
+            {
+              "name": "HP OpenView Service Center (ex-Perigrine)",
+              "description": "ITSM tool deployed throughout the AREVA T&D company with ITIL v2 standard for call/incident, request, goods and services catalog management. Internal name: Picasso.",
+              "logo": "/images/favicon_HP.png",
+              "link": ""
+            },
+            {
+              "name": "HP Quality Center",
+              "description": "tool used at AREVA and Alstom for test management and automation during project phases.",
+              "logo": "/images/favicon_HP.png",
+              "link": "https://h10078.www1.hp.com/cda/hpms/display/main/hpms_content.jsp?zn=bto&amp;cp=1-11-127-24_4000_100__"
+            },
+            {
+              "name": "HP PPM",
+              "description": "tool used at AREVA for managing application enhancement requests. Internal name: DEMAND.",
+              "logo": "/images/favicon_HP.png",
+              "link": "http://www8.hp.com/fr/fr/software-solutions/software.html?compURI=1172141#.UPPJ-vJ_6Ag"
+            },
+            {
+              "name": "Spelog",
+              "description": "e-business tool used at AREVA and Alstom for spare parts and SAV management in the general industrial sector (Axess group publisher). Interfaced with the client's e-procurement tool RTE (EDF subsidiary) via the OCI - punch-out standard. Internal name: SPARKS.",
+              "logo": "/images/favicon_Spelog.png",
+              "link": "http://www.spelog.com"
+            },
+            {
+              "name": "Concept",
+              "description": "product configurator tool used at Alstom in the industrial context (Configure One publisher). Interfaced with SAP ERP via the NLINK module for tender and order creation. Interfaced with Alstom Grid SalesForce.com CRM for links with opportunities. Internal name: AC1.",
+              "logo": "/images/favicon_ConfigureOne.png",
+              "link": "http://www.configureone.com"
+            },
+            {
+              "name": "Joomla",
+              "description": "open source web content management (CMS) tool that I used for personal projects.",
+              "logo": "/images/favicon_Joomla.png",
+              "link": "http://www.joomla.org"
+            },
+            {
+              "name": "MS EPM",
+              "description": "project management tool used extensively at Alstom (MS Enterprise Project Management). Load/capacity management, budget, planning, project reports... Interfaced with PPM i-Nexus tool.",
+              "logo": "/images/favicon_Microsoft.png",
+              "link": "http://www.microsoft.com/project/en-us/solutions.aspx"
+            },
+            {
+              "name": "iFormBuilder",
+              "description": "online form creation service. Used at Alstom Grid for transformer inspections for the Kahramaa client (Qatar). Interfaced with SalesForce.com for validation.",
+              "logo": "/images/favicon_iFormBuilder.png",
+              "link": "https://www.iformbuilder.com/"
+            },
+            {
+              "name": "SAP Mobile Platform (SMP)",
+              "description": "mobile application management tool, Agentry and Work Manager modules. Used at Alstom Grid to create/manage iPad inspection applications for transformers (Mobility Trans-FIT) and circuit breakers (Mobility CBR-FIT) for all clients with the Agentry module. Interfaced with SalesForce.com for data validation. Work Manager module implemented for mission order management (Mobility Mission Manager). Interfaced with SAP ERP.",
+              "logo": "/images/favicon_SMP.png",
+              "link": "https://help.sap.com/viewer/p/SAP_MOBILE_PLATFORM_SERVER"
+            },
+            {
+              "name": "BMC Remedy",
+              "description": "ITSM tool used at Alstom for incident, request, problem, change management... Mainly used for application support management. Internal name: ITSM7.",
+              "logo": "/images/favicon_BMC.png",
+              "link": "http://www.bmc.com/it-solutions/remedy-itsm.html"
+            },
+            {
+              "name": "Livelink",
+              "description": "GED tool used at AREVA & Alstom to manage business and IT documents (OpenText publisher).",
+              "logo": "/images/favicon_livelink.png",
+              "link": "http://www.opentext.com/livelink"
+            },
+            {
+              "name": "TrackWise",
+              "description": "supplier quality management tool used at Alstom (SpartaSystems publisher). Internal name: SQM.",
+              "logo": "/images/favicon_TrackWise.png",
+              "link": "http://www.spartasystems.com/trackwise/"
+            },
+            {
+              "name": "NLINK",
+              "description": "certified SAP connector used with Concept/Configure One for SAP interface (Junot Systems publisher).",
+              "logo": "/images/favicon_NLINK.png",
+              "link": "http://junotsystems.com/sap-connector/"
+            },
+            {
+              "name": "ServiceNow",
+              "description": "SaaS ITSM tool for ticket management used at GE",
+              "logo": "/images/favicon_SN.png",
+              "link": "https://www.servicenow.com/"
+            },
+            {
+              "name": "AWS (Amazon Web Service)",
+              "description": "Amazon Cloud service used at GE and RUBIX",
+              "logo": "/images/favicon_AWS.png",
+              "link": "https://aws.amazon.com"
+            },
+            {
+              "name": "SAP Hybris",
+              "description": "e-commerce site and PIM management solution",
+              "logo": "/images/favicon_Hybris.png",
+              "link": "https://www.hybris.com/fr/"
+            },
+            {
+              "name": "Zendesk",
+              "description": "SaaS ITSM tool for ticket management used at IPH",
+              "logo": "/images/favicon_Zendesk.png",
+              "link": "https://www.zendesk.fr/"
+            },
+            {
+              "name": "DataDome",
+              "description": "website protection solution against robots used at IPH then Rubix. My interview by DataDome: \"With DataDome, our servers run for our clients, not for our competitors\"",
+              "logo": "/images/favicon_datadome.png",
+              "link": "https://datadome.co/fr/"
+            },
+            {
+              "name": "JMeter",
+              "description": "stress test tool used at Alstom and GE",
+              "logo": "/images/favicon_JMeter.png",
+              "link": "https://jmeter.apache.org/"
+            },
+            {
+              "name": "JIRA",
+              "description": "ticket management module of the Atlassian suite used at RUBIX for organizing Agile developments",
+              "logo": "/images/favicon_jira.png",
+              "link": "https://www.atlassian.com/fr/software/jira"
+            },
+            {
+              "name": "Confluence",
+              "description": "documentation management module of the Atlassian suite used at RUBIX for technical documentation",
+              "logo": "/images/favicon_confluence.png",
+              "link": "https://www.atlassian.com/fr/software/confluence"
+            },
+            {
+              "name": "Jenkins",
+              "description": "continuous integration tool used at RUBIX to manage jobs on e-commerce and PIM applications",
+              "logo": "/images/favicon_jenkins.png",
+              "link": "https://jenkins.io/"
+            },
+            {
+              "name": "Teams",
+              "description": "Microsoft collaborative work module",
+              "logo": "/images/favicon_teams.png",
+              "link": "https://products.office.com/fr-fr/microsoft-teams/group-chat-software"
+            },
+            {
+              "name": "Katalon",
+              "description": "test automation tool used to manage NRT campaigns on RUBIX ecommerce sites",
+              "logo": "/images/favicon_katalon.png",
+              "link": "https://www.katalon.com/"
+            },
+            {
+              "name": "New Relic",
+              "description": "monitoring tool used at RUBIX for Digital application surveillance",
+              "logo": "/images/favicon_newrelic.png",
+              "link": "https://newrelic.fr/"
+            },
+            {
+              "name": "Ingenico",
+              "description": "online payment service used at RUBIX on ecommerce sites",
+              "logo": "/images/favicon_ingenico.png",
+              "link": "https://www.ingenico.com/fr"
+            },
+            {
+              "name": "TestRail",
+              "description": "test scenario and campaign management tool used at RUBIX",
+              "logo": "/images/favicon_testrail.png",
+              "link": "https://www.gurock.com/testrail/"
+            },
+            {
+              "name": "BrowserStack",
+              "description": "online web and mobile test service allowing use of different browsers and mobile devices used at RUBIX. My English interview by BrowserStack: \"Rubix achieves test automation in Agile Development with BrowserStack\"",
+              "logo": "/images/favicon_BrowserStack.png",
+              "link": "https://www.browserstack.com/"
+            }
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact Me",
+      "email": "Send Email",
+      "linkedin": "LinkedIn Profile",
+      "github": "GitHub Profile"
+    }
+  }
+}
