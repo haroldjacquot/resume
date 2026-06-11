@@ -1,12 +1,12 @@
 {
   "fr": {
     "header": {
-      "title": "Digital Manager Lyon",
+      "title": "Head of IT Operations & Digital Platforms",
       "experienceStart": "2004-01-02",
-      "subtitle": "ans d'expérience en gestion de projet et support applicatif - Environnement international",
+      "subtitle": "Cloud Operations • eCommerce • Service Delivery",
       "qualities": ["Organisé", "Pragmatique", "Rigoureux"]
     },
-    "summary": "Grandes expériences au sein de DSI (département informatique) de grands groupes industriels où j'ai acquis une grande expertise en gestion d'équipe, gestion de projet et support applicatif. Depuis 2017, je travaille dans le eCommerce B2B où je gère divers équipes et projets d'infrastructure Cloud.",
+    "summary": "Responsable des opérations IT et digitales, j'allie expertise technique, leadership d'équipes internationales et vision business pour garantir la performance, la résilience et l'évolution de plateformes stratégiques à l'échelle européenne.",
     "skills": {
       "title": "Compétences",
       "categories": [
@@ -76,34 +76,86 @@
       "title": "Expérience professionnelle",
       "items": [
         {
-          "period": "Depuis 2018",
+          "period": "Nov 2025 - Aujourd'hui",
           "company": "Rubix",
-          "role": "Digital Group Delivery Manager",
-          "description": "Gestion d'un portefeuille projets et applications Digital Groupe comprenant des sites e-commerce B2B avec Punch-Out (31M de pages vues en 2020) et un PIM (3,5M de produits enrichis) > SAP Hybris/MySQL/Linux (distribution de fourniture industrielle - MRO & OEM) :",
+          "role": "Head of Front-End Operations",
+          "description": "Responsable des activités Infrastructure & Operations des plateformes digitales européennes destinées aux clients et aux fournisseurs",
           "items": [
             {
               "title": "",
-              "description": "Digital Delivery service center > 20 applications, 2.000 tickets/an, équipe support L1"
+              "description": "Pilotage des opérations, de la performance, de la résilience et de l'évolution des plateformes eCommerce et services digitaux du Groupe"
             },
             {
               "title": "",
-              "description": "Infrastructure/DevOps > Projet de migration AWS Lift and Shift 2018-2020, AWS FinOps (EC2, RDS/Aurora, S3), protection robots"
+              "description": "Coordination des équipes Business, Digital, IT et des partenaires technologiques à l'échelle européenne"
             },
             {
               "title": "",
-              "description": "Qualité et Assurance > Coordination de 5 profils QA, NRT, test automatisés, CI/CD"
+              "description": "Direction d'un programme stratégique de modernisation de la plateforme eCommerce sur AWS, basé sur les principes Infrastructure as Code"
+            }
+          ],
+          "logo": "images/logo_rubix.png",
+          "logoTitle": "images/logo_rubix_title.jpg",
+          "link": "https://rubix.com",
+          "location": "Lyon"
+        },
+        {
+          "period": "Mar 2018 - May 2026",
+          "company": "Rubix",
+          "role": "Digital Group Delivery Manager",
+          "description": "Pilotage de la Delivery, de l'évolution et des opérations de l'écosystème eCommerce B2B européen de RUBIX",
+          "items": [
+            {
+              "title": "",
+              "description": "Développement du périmètre eCommerce de 4 à 22 Webshops, accompagnant une forte croissance de l'activité"
             },
             {
               "title": "",
-              "description": "Coordination avec intégrateur, développement itératif, gestion contrat et budget CAPEX/OPEX"
+              "description": "Direction de programmes de transformation stratégiques, notamment la migration de SAP Hybris vers SAP Commerce sur 19 Webshops"
             },
             {
-              "title": "Sites e-commerce B2B",
-              "description": "France, Pays-Bas, Belgique, Italie, Allemagne, Islande, Espagne, France-Legoueix, Norvège, Suède, Royaume-Uni, Finlande, Danemark, Irlande, Roumanie, Pologne, Slovaquie, République Tchèque, Hongrie"
+              "title": "",
+              "description": "Gestion d'un budget annuel CAPEX/OPEX de 5 M€ et mise en œuvre de pratiques FinOps pour optimiser les coûts cloud"
             },
             {
-              "title": "Application m-commerce B2B",
-              "description": "Rubix sur Apple Store, Rubix sur Google Play"
+              "title": "",
+              "description": "Pilotage de la migration des infrastructures on-premise vers AWS ainsi que de l'adoption de Kubernetes, améliorant la résilience et la scalabilité des plateformes"
+            },
+            {
+              "title": "",
+              "description": "Supervision d'un portefeuille comprenant des plateformes eCommerce, des solutions PIM et des services digitaux destinés aux clients, représentant plusieurs millions de visites annuelles"
+            }
+          ],
+          "logo": "images/logo_rubix.png",
+          "logoTitle": "images/logo_rubix_title.jpg",
+          "link": "https://rubix.com",
+          "location": "Lyon"
+        },
+        {
+          "period": "Mar 2018 - May 2026",
+          "company": "Rubix",
+          "role": "Digital Support & QA Lead",
+          "description": "Responsable du support, de l'assurance qualité et de l'amélioration continue des plateformes digitales européennes de RUBIX",
+          "items": [
+            {
+              "title": "",
+              "description": "Management d'équipes internationales de support et de QA réparties entre l'Europe et l'Afrique du Nord"
+            },
+            {
+              "title": "",
+              "description": "Accompagnement de la croissance du portefeuille applicatif digital, passé de 5 à 22 applications critiques pour l'activité"
+            },
+            {
+              "title": "",
+              "description": "Amélioration du respect des SLA incidents de 77 % à 97 %, avec une réduction significative du backlog et des délais de résolution"
+            },
+            {
+              "title": "",
+              "description": "Mise en place de l'automatisation des tests, réduisant de 50 % les efforts de validation et améliorant la qualité des mises en production"
+            },
+            {
+              "title": "",
+              "description": "Déploiement de processus de support basés sur les bonnes pratiques ITIL et pilotage des fournisseurs associés"
             }
           ],
           "logo": "images/logo_rubix.png",
@@ -812,12 +864,12 @@
   },
   "en": {
     "header": {
-      "title": "Digital Manager Lyon",
+      "title": "Head of IT Operations & Digital Platforms",
       "experienceStart": "2004-01-02",
-      "subtitle": "years experience in project management and application support — International environment",
+      "subtitle": "Cloud Operations • eCommerce • Service Delivery",
       "qualities": ["Organized", "Pragmatic", "Thorough"]
     },
-    "summary": "With significant experience in IT departments of large industrial companies, I have honed my skills in team leadership, project management, and application support. Since 2017, I have been immersed in the B2B eCommerce environment, managing multiple teams and overseeing cloud projects. I am organized, pragmatic, and thorough, excelling in all phases of project management from pre-study (opportunity study, feasibility study, RFP, POC) through to the design phase and project follow-up, including budget management, planning, quality assurance, and chairing steering committees. I am adept at preparing and managing User Acceptance Testing (UAT) and providing application support through Outsourced Application Management contracts (TMA in French).",
+    "summary": "IT and Digital Operations leader combining technical expertise, international team leadership, and business acumen to deliver high-performing, resilient, and scalable digital platforms across Europe.",
     "skills": {
       "title": "Skills",
       "categories": [
@@ -887,34 +939,86 @@
       "title": "Work Experience",
       "items": [
         {
-          "period": "Since 2018",
+          "period": "Nov 2025 - Present",
           "company": "Rubix",
-          "role": "Digital Group Delivery Manager",
-          "description": "Digital Group projects and applications portfolio management including B2B e-commerce website with Punch-Out (31M page viewed in 2020) and PIM (3,5M enriched product) > SAP Hybris/MySQL/Linux (industrial supplies distributor - MRO & OEM):",
+          "role": "Head of Front-End Operations",
+          "description": "Responsible for Infrastructure & Operations of the Group's European digital platforms serving customers and suppliers",
           "items": [
             {
               "title": "",
-              "description": "Digital Delivery service center > 20 Applications, 2.000 tickets/year, Support team L1"
+              "description": "Lead operations, performance, resilience and continuous evolution of eCommerce platforms and digital services"
             },
             {
               "title": "",
-              "description": "Infrastructure/DevOps > AWS Lift and Shift migration project 2018-2020, AWS FinOps (EC2, RDS/Aurora, S3), Bot protection"
+              "description": "Coordinate Business, Digital, IT and technology partners across Europe to ensure reliable and scalable services"
             },
             {
               "title": "",
-              "description": "Quality and Assurance > Coordination of 5 QA profiles, NRT, test automation, CI/CD"
+              "description": "Lead a strategic modernization program of the eCommerce platform on AWS, based on Infrastructure as Code principles"
+            }
+          ],
+          "logo": "images/logo_rubix.png",
+          "logoTitle": "images/logo_rubix_title.jpg",
+          "link": "https://rubix.com",
+          "location": "Lyon"
+        },
+        {
+          "period": "Mar 2018 - May 2026",
+          "company": "Rubix",
+          "role": "Digital Group Delivery Manager",
+          "description": "Led the delivery, evolution and operations of RUBIX's European B2B eCommerce ecosystem",
+          "items": [
+            {
+              "title": "",
+              "description": "Expanded the eCommerce footprint from 4 to 22 webshops across Europe, supporting significant business growth"
             },
             {
               "title": "",
-              "description": "Coordination with integrator, iterative development, contract management and CAPEX/OPEX budget"
+              "description": "Directed strategic transformation programs including the migration from SAP Hybris to SAP Commerce across 19 websites"
             },
             {
-              "title": "B2B e-commerce websites",
-              "description": "France, Netherlands, Belgium, Italy, Germany, Iceland, Spain, France-Legoueix, Norway, Sweden, United-Kingdom, Finland, Denmark, Ireland, Romania, Poland, Slovakia, Czech Republic, Hungary"
+              "title": "",
+              "description": "Managed a €5M annual CAPEX/OPEX budget and implemented FinOps practices to optimize cloud spending"
             },
             {
-              "title": "B2B m-commerce application",
-              "description": "Rubix on Apple Store, Rubix on Google Play"
+              "title": "",
+              "description": "Led the migration from on-premise infrastructure to AWS and the adoption of Kubernetes, improving platform resilience and scalability"
+            },
+            {
+              "title": "",
+              "description": "Oversaw a portfolio including eCommerce platforms, PIM solutions and customer-facing digital services serving millions of annual visits"
+            }
+          ],
+          "logo": "images/logo_rubix.png",
+          "logoTitle": "images/logo_rubix_title.jpg",
+          "link": "https://rubix.com",
+          "location": "Lyon"
+        },
+        {
+          "period": "Mar 2018 - May 2026",
+          "company": "Rubix",
+          "role": "Digital Support & QA Lead",
+          "description": "Managed support, quality assurance and continuous improvement activities for RUBIX's European digital platforms",
+          "items": [
+            {
+              "title": "",
+              "description": "Led international support and QA teams across Europe and North Africa"
+            },
+            {
+              "title": "",
+              "description": "Supported the growth of the digital application landscape from 5 to 22 business-critical applications"
+            },
+            {
+              "title": "",
+              "description": "Improved incident SLA compliance from 77% to 97% while significantly reducing backlog and resolution times"
+            },
+            {
+              "title": "",
+              "description": "Introduced test automation practices, reducing testing effort by 50% and improving release quality"
+            },
+            {
+              "title": "",
+              "description": "Implemented ITIL-based support processes and vendor management practices"
             }
           ],
           "logo": "images/logo_rubix.png",

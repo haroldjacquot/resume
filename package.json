@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:ssg": "vite build --base ./ && node scripts/prerender.mjs",
     "lint": "eslint .",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"

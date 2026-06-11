@@ -17,6 +17,9 @@ export default function App() {
   const [darkMode, setDarkMode] = useState(false);
 
   useEffect(() => {
+    // Only run on client (not during SSR)
+    if (typeof document === 'undefined') return;
+
     if (darkMode) {
       document.documentElement.classList.add("dark");
     } else {

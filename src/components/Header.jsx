@@ -24,9 +24,9 @@ export default function Header() {
         alt="Harold Jacquot"
         className="rounded-full w-32 h-32 border-4 border-blue-500 shadow-lg"
       />
-      <h1 className="text-3xl font-bold">{t("header.title")}</h1>
+      <h1 className="text-3xl font-bold whitespace-pre-wrap">{t("header.title")}</h1>
       <p className="mt-2 text-lg text-gray-600 dark:text-gray-300">
-        {experienceYears} {t("header.subtitle")}
+        {t("header.subtitle")}
       </p>
       <ul className="mt-4 flex justify-center space-x-4">
         {header.map((q, i) => (
