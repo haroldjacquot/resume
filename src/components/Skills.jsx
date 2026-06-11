@@ -2,6 +2,12 @@
 import React from "react";
 import { useLanguage } from "../LanguageContext";
 
+function resolveAssetPath(path) {
+  const baseUrl = import.meta.env.BASE_URL;
+  if (!path) return path;
+  return path.startsWith("/") ? `${baseUrl}${path.slice(1)}` : `${baseUrl}${path}`;
+}
+
 export default function Skills() {
   const { t } = useLanguage();
   const { title, categories } = t("skills");
@@ -57,7 +63,7 @@ export default function Skills() {
             <div className="flex items-center space-x-3 mb-4">
               {category.logo && (
                 <img
-                  src={category.logo}
+                  src={resolveAssetPath(category.logo)}
                   alt={category.name}
                   className="w-10 h-10 object-contain"
                 />

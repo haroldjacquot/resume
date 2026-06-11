@@ -2,10 +2,15 @@
 import React from "react";
 import { useLanguage } from "../LanguageContext";
 
+function resolveAssetPath(path) {
+  const baseUrl = import.meta.env.BASE_URL;
+  if (!path) return path;
+  return path.startsWith("/") ? `${baseUrl}${path.slice(1)}` : `${baseUrl}${path}`;
+}
+
 export default function Summary() {
   const { t } = useLanguage();
   const certifications = t("highlightedCertifications");
-  const baseUrl = import.meta.env.BASE_URL;
 
   return (
     <section className="px-4 py-8 transition-colors duration-300">
@@ -28,7 +33,7 @@ export default function Summary() {
               {/* Image container */}
               <div className="relative h-48 overflow-hidden bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-700 dark:to-gray-600">
                 <img
-                  src={`${baseUrl}${cert.image}`}
+                  src={resolveAssetPath(cert.image)}
                   alt={cert.title}
                   className="h-full w-full object-contain p-6 transition-transform duration-300 group-hover:scale-110"
                 />

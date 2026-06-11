@@ -2,6 +2,12 @@ import { useLanguage } from "../LanguageContext";
 import { motion } from "framer-motion";
 import { FaChalkboardTeacher } from "react-icons/fa";
 
+function resolveAssetPath(path) {
+  const baseUrl = import.meta.env.BASE_URL;
+  if (!path) return path;
+  return path.startsWith("/") ? `${baseUrl}${path.slice(1)}` : `${baseUrl}${path}`;
+}
+
 export default function ProfessionalTraining() {
   const { t } = useLanguage();
   const professionalTraining = t("professionalTraining.items");
@@ -24,7 +30,7 @@ export default function ProfessionalTraining() {
             transition={{ duration: 0.6, delay: index * 0.1 }}
           >
             <img
-              src={train.logo}
+              src={resolveAssetPath(train.logo)}
               alt={train.issuer}
               className="w-16 h-16 object-contain mr-4"
             />

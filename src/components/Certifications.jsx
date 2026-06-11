@@ -1,6 +1,12 @@
 import { useLanguage } from "../LanguageContext";
 import { motion } from "framer-motion";
 
+function resolveAssetPath(path) {
+  const baseUrl = import.meta.env.BASE_URL;
+  if (!path) return path;
+  return path.startsWith("/") ? `${baseUrl}${path.slice(1)}` : `${baseUrl}${path}`;
+}
+
 export default function Certifications() {
   const { t } = useLanguage();
   const certifications = t("certifications.items");
@@ -21,7 +27,7 @@ export default function Certifications() {
             className="flex items-center space-x-3 px-4 py-2 bg-gray-100 dark:bg-gray-700 rounded-full shadow-sm hover:shadow-md transition cursor-default"
           >
             <img
-              src={cert.logo}
+              src={resolveAssetPath(cert.logo)}
               alt={cert.issuer}
               className="w-6 h-6 object-contain"
             />
