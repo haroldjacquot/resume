@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Replace the URL below with your actual site URL (include trailing slash)
-Sitemap: https://haroldjacquot.github.io/resume/sitemap.xml
