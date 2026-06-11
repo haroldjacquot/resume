@@ -43,10 +43,10 @@ export default function App() {
         {/* Contenu */}
         <Header />
         <Summary />
-        <Certifications />
         <Skills />
         <Experience />
         <Education />
+        <Certifications />
         <ProfessionalTraining />
         <Contact />
       </div>

@@ -7,6 +7,23 @@
       "qualities": ["Organisé", "Pragmatique", "Rigoureux"]
     },
     "summary": "Responsable des opérations IT et digitales, j'allie expertise technique, leadership d'équipes internationales et vision business pour garantir la performance, la résilience et l'évolution de plateformes stratégiques à l'échelle européenne.",
+    "highlightedCertifications": [
+      {
+        "title": "AWS Certified Cloud Practitioner",
+        "year": "2023",
+        "image": "logos/certif_aws_practitioner.png"
+      },
+      {
+        "title": "TOGAF® 9 Foundation",
+        "year": "2025",
+        "image": "logos/certif_togaf_foundation.png"
+      },
+      {
+        "title": "ITIL Foundation 2011",
+        "year": "2015",
+        "image": "logos/certif_itil_foundation.png"
+      }
+    ],
     "skills": {
       "title": "Compétences",
       "categories": [
@@ -870,6 +887,23 @@
       "qualities": ["Organized", "Pragmatic", "Thorough"]
     },
     "summary": "IT and Digital Operations leader combining technical expertise, international team leadership, and business acumen to deliver high-performing, resilient, and scalable digital platforms across Europe.",
+    "highlightedCertifications": [
+      {
+        "title": "AWS Certified Cloud Practitioner",
+        "year": "2023",
+        "image": "logos/certif_aws_practitioner.png"
+      },
+      {
+        "title": "TOGAF® 9 Foundation",
+        "year": "2025",
+        "image": "logos/certif_togaf_foundation.png"
+      },
+      {
+        "title": "ITIL Foundation 2011",
+        "year": "2015",
+        "image": "logos/certif_itil_foundation.png"
+      }
+    ],
     "skills": {
       "title": "Skills",
       "categories": [
